@@ -11,4 +11,4 @@ app.get('/',(req:Request,res:Response,next:NextFunction) : void=>{
        res.json({messgae:'Home Page'})
 })
 
-export default app ;     
+export default app ; 
